@@ -5,4 +5,4 @@
     - name: Build Docker Image
       command: docker build -t my-nextjs-app:latest -f Dockerfile .
       args:
-        chdir: ~/66024963-nextjs  
+        chdir: ~/66026000-nextjs 
