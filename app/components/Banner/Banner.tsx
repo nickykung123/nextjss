@@ -10,20 +10,20 @@ const Banner = () => {
                     <div className="text-center">
                         <h1 className="text-4xl font-semibold text-navyblue sm:text-5xl  lg:text-7xl md:4px lh-96">
                             Solve sad
-                            with an <br /> 66026190.
+                            with an <br />.
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-bluegray">
-                            66026190 66026190
+                            66026000
                         </p>
                     </div>
 
 
                     <div className="text-center mt-5">
                         <button type="button" className='text-15px text-white font-medium bg-blue py-5 px-9 mt-2 leafbutton'>
-                            66026190
+                            
                         </button>
                         <button type="button" className='text-15px ml-4 mt-2 text-blue transition duration-150 ease-in-out hover:text-white hover:bg-blue font-medium py-5 px-16 border border-lightgrey leafbutton'>
-                            66026190
+                            
                         </button>
                         
                     </div>
